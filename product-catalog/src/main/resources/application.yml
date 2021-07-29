@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: product-catalog
+
+  clud:
+    config:
+      uri: http//localhost:8080
